@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../Content/img/header-bg.jpg');
+  
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -555,7 +555,6 @@ aside.clients img {
 }
 section#contact {
   background-color: #222222;
-  background-image: url('../Content/img/map-image.png');
   background-position: center;
   background-repeat: no-repeat;
 }
